@@ -2,7 +2,6 @@
 
 ## Java programming topics covered:
 
-
 ### 1.Variables (Instance, Static, Local, Final)
 
 ```
